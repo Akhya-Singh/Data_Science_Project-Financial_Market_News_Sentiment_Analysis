@@ -1,4 +1,4 @@
-Financial Market News Sentiment Analysis:-
+**Financial Market News Sentiment Analysis:-**
 
 
 Welcome to the Financial Market News Sentiment Analysis project repository!
