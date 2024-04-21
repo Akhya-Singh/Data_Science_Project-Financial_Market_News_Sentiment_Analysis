@@ -1,4 +1,4 @@
-```md
+
 # Financial Market News Sentiment Analysis
 
 This repository contains code for sentiment analysis of financial market news articles using a Random Forest Classifier. The dataset used in this project consists of financial news articles from various sources, along with labels indicating whether the sentiment of the article is positive or negative.
@@ -60,4 +60,4 @@ pip install pandas numpy scikit-learn
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-```
+
